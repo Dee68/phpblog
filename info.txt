@@ -1,0 +1,11 @@
+# login credentials for phpblog application:
+#-- Administrator --
+Email(admin):admin@gmail.com
+password:123456
+#-- Men=mbers---
+Email:jdoe123@gmail.com
+password:johndoe
+===============
+Email:jane123@yahoo.com
+password:jane123
+=================
